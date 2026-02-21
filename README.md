@@ -1,4 +1,4 @@
-# Calculadore 
+# Calculadora
 Diseñe una calculadora que hace las funciones basicas de una calculadora tiene la funcion de calcular cualquier tipo de numeros ya sea fraccinario etc.
 
 para hacer esta calculadora utilice textBos, font y Button, tex, name.
